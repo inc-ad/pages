@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "id": 5,
+            "returnValue": {
+                "id": 5,
+                "name": "Lucky Draw",
+                "perDayLimit": 8,
+                "title": "Lucky Draw",
+                "introduce": "<div><divcourier new',=\"\" monospace;font-weight:=\"\" normal;font-size:=\"\" 18px;line-height:=\"\" 27px;white-space:=\"\" pre;\"=\"\"><div>ABOUT THE GAME：</div></divcourier></div><div>Have a great time with this game! Play the game daily to win amazing prizes.</div><div><divcourier new',=\"\" monospace;font-weight:=\"\" normal;font-size:=\"\" 18px;line-height:=\"\" 27px;white-space:=\"\" pre;\"=\"\"><div>HOW TO PLAY：</div><div><divcourier new',=\"\" monospace;font-weight:=\"\" normal;font-size:=\"\" 18px;line-height:=\"\" 27px;white-space:=\"\" pre;\"=\"\"><div>1.Spin the Weel to get prizes，when you win a lottery you can obtain it.<br></div><div><divcourier new',=\"\" monospace;font-weight:=\"\" normal;font-size:=\"\" 18px;line-height:=\"\" 27px;white-space:=\"\" pre;\"=\"\"><div>2.You have 8 chances everyday!</div><div><divcourier new',=\"\" monospace;font-weight:=\"\" normal;font-size:=\"\" 18px;line-height:=\"\" 27px;white-space:=\"\" pre;\"=\"\"><div>3.24 hours is an cycle. After the new cycle starts, the capsule&nbsp;will be recovered by the system.</div><div>4. Your prizes will be sent to you within seven business days[weekends not included].</div><div><divcourier new',=\"\" monospace;font-weight:=\"\" normal;font-size:=\"\" 18px;line-height:=\"\" 27px;white-space:=\"\" pre;\"=\"\"><div>STATEMENT：</div><div><divcourier new',=\"\" monospace;font-weight:=\"\" normal;font-size:=\"\" 18px;line-height:=\"\" 27px;white-space:=\"\" pre;\"=\"\"><div>If your behavior is in any way disruptive of our system, we reserve the right to take action against you, including cancel prize.</div></divcourier></div></divcourier></div></divcourier></div></divcourier></div></divcourier></div></divcourier></div><p><br></p>",
+                "config": "{\"imgObj\":{},\"colorObj\":{}}",
+                "banner": null,
+                "customerMade": true,
+                "activityRewardList": [
+                    {
+                        "id": 157,
+                        "rewardId": 18,
+                        "name": "Card 2000Rs",
+                        "imgUrl": "https://inc.adexplain.com/IMG/ACTIVITY/2021/07/05/36c1a5b6-82b1-4522-bfc9-ef0ddc7e472a.png",
+                        "remark": null,
+                        "xuanzhong": null
+                    },
+                    {
+                        "id": 158,
+                        "rewardId": 11,
+                        "name": "Gift",
+                        "imgUrl": "https://inc.adexplain.com/IMG/ACTIVITY/2021/06/29/3a1b5d32-1ea4-4144-a7e1-f373b7126825.png",
+                        "remark": null,
+                        "xuanzhong": null
+                    },
+                    {
+                        "id": 159,
+                        "rewardId": 23,
+                        "name": "2000Rs",
+                        "imgUrl": "https://inc.adexplain.com/IMG/ACTIVITY/2021/07/06/45695e0b-e10e-44cb-84f7-1f87d07ada5c.png",
+                        "remark": null,
+                        "xuanzhong": null
+                    },
+                    {
+                        "id": 160,
+                        "rewardId": 19,
+                        "name": "voucher 1000Rs",
+                        "imgUrl": "https://inc.adexplain.com/IMG/ACTIVITY/2021/07/05/955a8a3e-8cc6-4a1b-97cb-c535936c1a9f.png",
+                        "remark": null,
+                        "xuanzhong": null
+                    },
+                    {
+                        "id": 161,
+                        "rewardId": 21,
+                        "name": "Card 1000Rs",
+                        "imgUrl": "https://inc.adexplain.com/IMG/ACTIVITY/2021/07/05/36c1a5b6-82b1-4522-bfc9-ef0ddc7e472a.png",
+                        "remark": null,
+                        "xuanzhong": null
+                    },
+                    {
+                        "id": 162,
+                        "rewardId": 26,
+                        "name": "1000Rs",
+                        "imgUrl": "https://inc.adexplain.com/IMG/ACTIVITY/2021/07/06/dfcbd3df-ee75-4e1c-9d65-88fd40d15598.png",
+                        "remark": null,
+                        "xuanzhong": null
+                    }
+                ]
+            }
+        }
+    ]
+}
