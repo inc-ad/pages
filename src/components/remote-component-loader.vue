@@ -10,7 +10,12 @@
     props: {
       config: {
         type: Object,
-        default: () => {}
+        default: () => {
+          return {
+            name:'',
+            version:''
+          }
+        }
       },
       obj: {
         type: Object,
@@ -25,7 +30,7 @@
     },
     computed: {
       compAdress() {
-        return `${envConfig.load[process.env.NODE_ENV]}/${this.config.name}/${this.config.name}.${this.config.version}`
+        return this.config && `${envConfig.load[process.env.NODE_ENV]}/${this.config.name}/${this.config.name}.${this.config.version}`
       }
     },
     created() {
@@ -34,6 +39,7 @@
         name,
         version
       } = this.config;
+      if(!name) return;
       const component = window[name];
       
       const compName = `${name}.${version}`;
@@ -63,7 +69,7 @@
       }
     },
     watch: {
-      'config.name'() {
+      'config.name'(val) {
         this.component = Vue.extend(window[`${this.config.name}.${this.config.version}`].Component);
       }
     }

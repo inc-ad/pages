@@ -1,12 +1,12 @@
 export default {
   api: {
     'development': '/api',
-    'pre': 'http://icard.qunla.cn/',
-    'production': `https://cashprod.adshadow.cn/`
+    'pre': '',
+    'production': ``
   },
   load: {
-    'development': 'http://mingz-dev.admingzhi.com/inc-ad/comps',
-    'pre': 'http://mingz-dev.admingzhi.com/inc-ad/comps',
+    'development': 'http://test-dt.adshadow.cn/inc-ad/comps',
+    'pre': 'http://test-dt.adshadow.cn/inc-ad/comps',
     'production': ``
   }
 }
